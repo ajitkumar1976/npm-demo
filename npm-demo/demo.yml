@@ -14,7 +14,7 @@ spec:
         app: npm
     spec:
       containers:
-      - image: sumitroopchandani/npm-demo:latest
+      - image: ajitkumar1976/npm-demo:latest
         imagePullPolicy: Always
         name: app
         resources:
